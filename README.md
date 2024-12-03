@@ -1,6 +1,6 @@
 - ## Hi there👋, 
   # Welcome to My GitHub Portfolio
-  ![Gurushith](https://raw.githubusercontent.com/Gurudsml/Gurudsml/a2ee02201ffbc85ecfa8c1674d8b14818db7afbb/Gurushith.jpeg)
+                ![Gurushith](https://github.com/Gurudsml/Gurudsml/commit/483697625169cee67cb00e138f1d8828bb1e0177)
 - ## About Me
   Hello! I'm Gurushith, From Ramanathapuram.I have Completed my Post Graduation in MBA - finance From NMS.S.Vellaichamy nadar college,madurai.
  **I'm Currently Studying Data Science and Machine Learning Programm from Entri Elevate rocognised by ILLINOIS TECH.** 
