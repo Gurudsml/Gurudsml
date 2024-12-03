@@ -1,6 +1,6 @@
 - ## Hi there👋, 
   # Welcome to My GitHub Portfolio
- ![Gurushith](https://github.com/Gurudsml/Gurudsml/blob/main/WhatsApp%20Image%202024-12-03%20at%2010.19.25_292a2356.jpg)
+ ![Gurushith](https://github.com/Gurudsml/Gurudsml/blob/main/Gurus.jpg)
 - ## About Me
   Hello! I'm Gurushith, From Ramanathapuram.I have Completed my Post Graduation in MBA - finance From NMS.S.Vellaichamy nadar college,madurai.
  **I'm Currently Studying Data Science and Machine Learning Programm from Entri Elevate rocognised by ILLINOIS TECH.** 
