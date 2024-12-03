@@ -14,8 +14,9 @@
    - Python
 # Data Science and Machine Learing Bootcamp
  ## During the Bootcamp I Do some Module Project To Explore My Skills
-### [Project 1:**Excel** Capstone Project - *Healthcare Analysis and Insights* ](https://github.com/Gurudsml/Excel-Healthcae-Insights)
- 
+- ### [Project 1:**Excel** Capstone Project - *Healthcare Analysis and Insights* ](https://github.com/Gurudsml/Excel-Healthcae-Insights)
+- ### [Project 2:**Power BI** Capstone Project - *Bank Loan Performance Analysis*]()
+
 <!---
 Gurudsml/Gurudsml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
