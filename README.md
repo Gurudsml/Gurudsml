@@ -22,14 +22,19 @@
 - ### [Project 2:**Power BI** Capstone Project - *IPL 2008 to 2023 Analysis*](https://github.com/Gurudsml/Power-BI-Module-Project).
      -🎯 Key Findings Across All Seasons:
 
-💥 39,000 boundaries and 12,000 wickets across 16 seasons – a perfect balance of bat and ball!
-🏏 Top Players: Legends like AB de Villiers (25 Player of the Match awards) and Chris Gayle (22 awards) continue to inspire cricket fans worldwide.
-🏆 Top Teams: Mumbai Indians (109 wins) and Chennai Super Kings (96 wins) dominate IPL history.
-🔢 Strategy Insights: Teams batting first after winning the toss succeed 68.14% of the time, proving the value of setting a target.
-🌟 Extreme Records: Highest team score – 263; lowest score – 41. IPL always delivers unforgettable moments.
+     - 💥 39,000 boundaries and 12,000 wickets across 16 seasons – a perfect balance of bat and ball!
+     - 🏏 Top Players: Legends like AB de Villiers (25 Player of the Match awards) and Chris Gayle (22 awards) continue to inspire cricket fans worldwide.
+     - 🏆 Top Teams: Mumbai Indians (109 wins) and Chennai Super Kings (96 wins) dominate IPL history.
+     - 🔢 Strategy Insights: Teams batting first after winning the toss succeed 68.14% of the time, proving the value of setting a target.
+     - 🌟 Extreme Records: Highest team score – 263; lowest score – 41. IPL always delivers unforgettable moments.
 This project reflects my love for data visualization and the power of analytics in uncovering meaningful stories from raw data.
 
 - ### [Project 3:**MySQL**Mini Capstone Project - *Create Employee DATABASE*](https://github.com/Gurudsml/SQL-MINI-PROJECT).
+   - create a Databse using Mysql-workbench.
+   - •	Analyse Customer Churn behaviour to identify patterns, reduce churn rates, and improve customer retention strategies.
+   - •	Cleaned, transformed, and standardized data for enhanced accuracy and consistency.
+   - •	Used optimized SQL queries to improve database performance and extract insights faster.
+ 
  ## Recent Goals
   - To Get a Job In Reputed Company
   - Proficient in Communications
