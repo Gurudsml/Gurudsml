@@ -16,7 +16,19 @@
 # Data Science and Machine Learing Bootcamp
  ## During the Bootcamp I Do some Module Project To Explore My Skills
 - ### [Project 1:**Excel** Capstone Project - *Healthcare Analysis and Insights* ](https://github.com/Gurudsml/Excel-Healthcae-Insights).
-- ### [Project 2:**Power BI** Capstone Project - *Bank Loan Performance Analysis*](https://github.com/Gurudsml/Power-BI-Module-Project).
+     - •	Improved data integrity through data cleaning, ensuring reliable analysis and reporting.
+     - •	Created pivot tables and visualizations to effectively communicate trends.
+ 
+- ### [Project 2:**Power BI** Capstone Project - *IPL 2008 to 2023 Analysis*](https://github.com/Gurudsml/Power-BI-Module-Project).
+     -🎯 Key Findings Across All Seasons:
+
+💥 39,000 boundaries and 12,000 wickets across 16 seasons – a perfect balance of bat and ball!
+🏏 Top Players: Legends like AB de Villiers (25 Player of the Match awards) and Chris Gayle (22 awards) continue to inspire cricket fans worldwide.
+🏆 Top Teams: Mumbai Indians (109 wins) and Chennai Super Kings (96 wins) dominate IPL history.
+🔢 Strategy Insights: Teams batting first after winning the toss succeed 68.14% of the time, proving the value of setting a target.
+🌟 Extreme Records: Highest team score – 263; lowest score – 41. IPL always delivers unforgettable moments.
+This project reflects my love for data visualization and the power of analytics in uncovering meaningful stories from raw data.
+
 - ### [Project 3:**MySQL**Mini Capstone Project - *Create Employee DATABASE*](https://github.com/Gurudsml/SQL-MINI-PROJECT).
  ## Recent Goals
   - To Get a Job In Reputed Company
