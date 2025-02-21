@@ -20,7 +20,7 @@
      - •	Improved data integrity through data cleaning, ensuring reliable analysis and reporting.
      - •	Created pivot tables and visualizations to effectively communicate trends.
  
-- ### [Project :**Power BI** Capstone Project - *IPL 2008 to 2023 Analysis*](https://github.com/Gurudsml/Power-BI-Module-Project).
+- ### [Project :**Power BI** Capstone Project - *IPL 2008 to 2023 Analysis*](https://github.com/Gurudsml/Power-BI---Projects/blob/main/Gurushith%20Cricket%20DB..pbix).
      - ##### 🎯 Key Findings Across All Seasons:
 
      - 💥 39,000 boundaries and 12,000 wickets across 16 seasons – a perfect balance of bat and ball!
