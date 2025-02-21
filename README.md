@@ -8,11 +8,12 @@
   - **Phone No:** 9360224142
   - **Email ID:** gurusss1357@gamil.com
   - **linkedIn URL:** https://www.linkedin.com/in/gurushith-s-6bbb75296
-- ## Computer Skills
-   - Excel
-   - Power BI
-   - MySQL Database
-   - Python
+- ## TECHNICAL SKILLS
+   - •	Python [Libraries Known: NumPy, Pandas, Matplotlib, Seaborn]
+   - •	MySQL Workbench [Data Cleaning, Joins, Subqueries, Aggregations]
+   - •	Power BI [DAX, Data Modelling, ETL (Extract, Transform, Load)]
+   - •	Excel [Pivot Tables, VLOOKUP, HLOOKUP, Power Query]
+
 # Data Science and Machine Learing Bootcamp
  ## During the Bootcamp I Do some Module Project To Explore My Skills
 - ### [Project :**Excel** Capstone Project - *Healthcare Analysis and Insights* ](https://github.com/Gurudsml/Excel-Healthcae-Insights).
