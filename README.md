@@ -37,7 +37,7 @@ This project reflects my love for data visualization and the power of analytics 
    - •	Used optimized SQL queries to improve database performance and extract insights faster.
 - ### [Tool :**Python**-*Coding Task and Project*](https://github.com/Gurudsml/Python-Coding-And-Projects).
    - •  Learning Python Core Concept and Libraries. 
-   - •  *#Projects* Created interactive visualizations using Matplotlib and Seaborn to analyse customer behaviour, conversion rates, and ROI trends, enabling actionable business insights.
+   - •  *# Projects* Created interactive visualizations using Matplotlib and Seaborn to analyse customer behaviour, conversion rates, and ROI trends, enabling actionable business insights.
  
  ## Recent Goals
   - To Get a Job In Reputed Company
