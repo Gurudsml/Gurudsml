@@ -40,7 +40,7 @@ This project reflects my love for data visualization and the power of analytics 
    - •  Learning Python Core Concept and Libraries. 
    - •  **Projects** : Created interactive visualizations using Matplotlib and Seaborn to analyse customer behaviour, conversion rates, and ROI trends, enabling actionable business insights.
      
-- ### [[Tool :**Machine Learning**-*Coding Task and Project*](https://github.com/Gurudsml/Python-Coding-And-Projects).]
+- ### [[Tool :**Machine Learning**-*Coding Task and Project*](https://github.com/Gurudsml/Machine-Learning).
   - • Tools & Technologies:[Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Sklearn ]
   - • Acquired strong foundational knowledge and hands-on experience in building Machine Learning models to solve real-world business problems.
   - • Building end-to-end machine learning pipelines.
