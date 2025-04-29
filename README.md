@@ -35,10 +35,18 @@ This project reflects my love for data visualization and the power of analytics 
    - •	Analyse Customer Churn behaviour to identify patterns, reduce churn rates, and improve customer retention strategies.
    - •	Cleaned, transformed, and standardized data for enhanced accuracy and consistency.
    - •	Used optimized SQL queries to improve database performance and extract insights faster.
+
 - ### [Tool :**Python**-*Coding Task and Project*](https://github.com/Gurudsml/Python-Coding-And-Projects).
    - •  Learning Python Core Concept and Libraries. 
    - •  **Projects** : Created interactive visualizations using Matplotlib and Seaborn to analyse customer behaviour, conversion rates, and ROI trends, enabling actionable business insights.
- 
+     
+- ### [[Tool :**Machine Learning**-*Coding Task and Project*](https://github.com/Gurudsml/Python-Coding-And-Projects).]
+- Tools & Technologies:[Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Sklearn ]
+- Acquired strong foundational knowledge and hands-on experience in building Machine Learning models to solve real-world business problems.
+- Building end-to-end machine learning pipelines.
+- Interpreting and explaining model results.
+- Optimizing model performance through hyperparameter tuning.
+- Applying machine learning techniques for business use cases like customer churn prediction, marketing analysis, etc.
  ## Recent Goals
   - To Get a Job In Reputed Company
   - Proficient in Communications
