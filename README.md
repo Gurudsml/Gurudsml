@@ -47,7 +47,7 @@ This project reflects my love for data visualization and the power of analytics 
   - • Interpreting and explaining model results.
 
  ## All My Proejcts And Analysis:
-  - • Excel, Power Bi, SQL, Python, Machine Learning On this link : (https://github.com/Gurudsml)
+  - • Excel, Power Bi, SQL, Python, Machine Learning On this link : ([https://github.com/Gurudsml](https://github.com/Gurudsml?tab=repositories))
  
  ## Recent Goals
   - To Get a Job In Reputed Company
